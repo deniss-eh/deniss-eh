@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Deniss Chaudhary
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deniss-eh&label=Profile%20views&color=0e75b6&style=plastic" alt="deniss-eh" /> </p>
 
 <!--
-**deniss-eh/deniss-eh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
